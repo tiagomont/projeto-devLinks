@@ -26,9 +26,12 @@
 	--switch-bg-url: url('../assets/sun.svg');
 }
 
+html {
+	height: 100%vh;
+}
+
 body {
 	background: black var(--bg-url) no-repeat top center/cover;
-	height: 100%vh;
 }
 
 body * {
