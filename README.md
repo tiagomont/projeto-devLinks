@@ -1,2 +1,4 @@
-# projeto-devLinks
- Um projéto feito com o discover da rocketseat, um site onde há links para minhas redes sociais
+<h1>DevLinks</h1>
+<p align="center">
+    Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB
+</p>
