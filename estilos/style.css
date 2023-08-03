@@ -160,6 +160,16 @@ footer a:hover {
 	color: lightgray;
 }
 
+::-webkit-scrollbar {
+	width: 6px;
+	height: 8px;
+	background-color: #3a2f57;;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #888;
+}
+
 @media (min-width: 700px) {
 	:root {
 		--bg-url: url('../assets/bg-desktop.jpg');
